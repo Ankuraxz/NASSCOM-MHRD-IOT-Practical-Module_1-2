@@ -1,4 +1,5 @@
-## Experiment 1
+## Experiment 2a
+
 ![Experiment 2- Schematics](Experiment2.png "Blink")
 
 ### HARDWARE
