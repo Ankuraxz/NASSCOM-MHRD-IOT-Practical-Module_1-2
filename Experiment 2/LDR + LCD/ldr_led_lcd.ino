@@ -25,7 +25,7 @@ void loop()
 {
   lcd.setCursor(0, 1);
   value= analogRead(A0);
-  lumen = 255- (map(value,1,290,0,255));
+  lumen = 255- (map(value,1,290,0,255)); // map(value, fromLow, fromHigh, toLow, toHigh)
   if(value<30)
   {
     analogWrite(9, lumen); 
