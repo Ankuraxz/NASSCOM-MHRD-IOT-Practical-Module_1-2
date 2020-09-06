@@ -1,5 +1,5 @@
 ## Experiment 3A
-![Experiment 3a- Schematics](Experiment2b.png "Blink")
+![Experiment 3a- Schematics](Experiment_3a.png "Blink")
 
 ### HARDWARE
 > Arduino UNO R3
