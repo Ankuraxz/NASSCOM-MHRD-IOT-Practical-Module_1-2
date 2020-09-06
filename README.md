@@ -1,4 +1,4 @@
-# NASSCOM-MHRD-IOT-Practical-Module-1
+# NASSCOM-MHRD-IOT-Practical-Module 1 and 2
 Arduino on TinkerCad
 
 ## List Of Experiments
