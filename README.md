@@ -8,4 +8,10 @@ Arduino on TinkerCad
 4. Aim: Interfacing Servo Motor and DC Motor with Buttons
 5. PROJECT: PROTOTYPING AUTONOMOUS SMART HOME
 
-## Assignments/ Submissions
+## Assignments/ Submissions - Pull Request
+1. Make Fading/ Pattren Blinking Multiple LED/ Buzzers
+2. USE IR + REMOTE + LCD
+3. Use Ultrasonic (PING) type
+4. Interface Geared DC Motor
+5. Interface TMP36 + FAN DC Motor + Potentiometer
+6. Develop Your Own Small Project/ ShowCase
