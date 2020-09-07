@@ -1,5 +1,5 @@
 # NASSCOM-MHRD-IOT-Practical-Module 1 and 2
-Arduino on TinkerCad
+*__Arduino__* on TinkerCad
 
 ## List Of Experiments
 1. Aim: What is Tinkercad, Introduction to Arduino Uno (Text vs Block mode), Pins on Arduino Uno, Arduino-C language/ Arduino IDE Hello world with Arduino Uno(BLink LED)
@@ -18,7 +18,7 @@ Arduino on TinkerCad
 6. Develop Your Own Small Project and Project ShowCase
 
 ## SMART HOME FEATURES
-👉 Automated Gate with PIR --> KEYPAD/ BIOMETRIC CAN BE ADDED FOR SECURITY 
+👉 Automated Gate with PIR --> KEYPAD/ BIOMETRIC/ RFID CAN BE ADDED FOR SECURITY 
 
 👉 FAN/ AC Based on Temperature/ Humidity --> DHT can be used
 
