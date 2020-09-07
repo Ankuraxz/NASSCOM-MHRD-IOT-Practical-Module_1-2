@@ -14,4 +14,4 @@ Arduino on TinkerCad
 3. Use Ultrasonic (PING) type
 4. Interface Geared DC Motor
 5. Interface TMP36 + FAN DC Motor + Potentiometer
-6. Develop Your Own Small Project/ ShowCase
+6. Develop Your Own Small Project and ShowCase
