@@ -10,6 +10,4 @@
 
 > 220 ohm Resistor
 
-> Multimeter
 
-> Slide Switch
