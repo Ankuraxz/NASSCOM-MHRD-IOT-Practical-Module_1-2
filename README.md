@@ -4,6 +4,8 @@
 
 [![C++](https://img.shields.io/badge/C%2B%2B-Arduino%20C-orange)]((https://en.cppreference.com/)) 
 [![C](https://img.shields.io/badge/C-Arduino%20C-yellow)]((https://en.cppreference.com/))
+[![C++](https://img.shields.io/badge/language-c++-red.svg)](https://en.cppreference.com/)
+[![Licence](https://img.shields.io/badge/Licence-Creative%20Commons%20Zero-blue)](https://github.com/Ankuraxz/NASSCOM-MHRD-IOT-Practical-Module_1-2/blob/master/LICENSE)
 
 
 # NASSCOM-MHRD-IOT-Practical-Module 1 and 2
