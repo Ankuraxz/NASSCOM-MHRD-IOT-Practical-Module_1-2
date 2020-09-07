@@ -6,7 +6,7 @@
 
 > SENSORS: LDR, PIR, TMP36
 
-> Acctuators: Led, Servo, DC Motor
+> Acctuators: Bulb, Servo, DC Motor
 
 > Potentiometer, Resistors
 
