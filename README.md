@@ -3,10 +3,11 @@
 </p>
 
 <p align="center">
-	[![Language](https://img.shields.io/badge/language-c-red.svg)](https://en.cppreference.com/w/c/)
-	[![Language](https://img.shields.io/badge/language-c++-red.svg)](https://en.cppreference.com/)
-	[![Licence](https://img.shields.io/badge/Licence-Creative%20Commons%20Zero-blue)](https://github.com/Ankuraxz/NASSCOM-MHRD-IOT-Practical-Module_1-2/blob/master/LICENSE)
-	[![Platform](https://img.shields.io/badge/Platform-Arduino-brightgreen)](https://www.arduino.cc)
+
+[![Language](https://img.shields.io/badge/language-c-red.svg)](https://en.cppreference.com/w/c/)
+[![Language](https://img.shields.io/badge/language-c++-red.svg)](https://en.cppreference.com/)
+[![Licence](https://img.shields.io/badge/Licence-Creative%20Commons%20Zero-blue)](https://github.com/Ankuraxz/NASSCOM-MHRD-IOT-Practical-Module_1-2/blob/master/LICENSE)
+[![Platform](https://img.shields.io/badge/Platform-Arduino-brightgreen)](https://www.arduino.cc)
 </p>
 
 # NASSCOM-MHRD-IOT-Practical-Module 1 and 2
