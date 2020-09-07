@@ -1,3 +1,11 @@
+<p align="center">
+	<img src="http://content.arduino.cc/brand/arduino-color.svg" width="50%" />
+</p>
+
+[![C++](https://img.shields.io/badge/C%2B%2B-Arduino%20C-orange)]((https://en.cppreference.com/)) 
+[![C](https://img.shields.io/badge/C-Arduino%20C-yellow)]((https://en.cppreference.com/))
+
+
 # NASSCOM-MHRD-IOT-Practical-Module 1 and 2
 *__Arduino__* on TinkerCad
 
