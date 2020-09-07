@@ -9,6 +9,7 @@ Arduino on TinkerCad
 5. PROJECT: PROTOTYPING AUTONOMOUS SMART HOME
 
 ## Assignments/ Submissions - Pull Request
+> _Practice EVERYDAY_
 1. Make Fading/ Pattren Blinking Multiple LED/ Buzzers
 2. USE IR + REMOTE + LCD
 3. Use Ultrasonic (PING) type
