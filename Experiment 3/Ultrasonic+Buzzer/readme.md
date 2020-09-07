@@ -9,3 +9,7 @@
 > Buzzer
 
 > 220 ohm Resistor
+
+> Multimeter
+
+> Slide Switch
