@@ -16,3 +16,8 @@ Arduino on TinkerCad
 4. Interface Geared DC Motor
 5. Interface TMP36 + FAN DC Motor + Potentiometer
 6. Develop Your Own Small Project and Project ShowCase
+
+## SMART HOME FEATURES
+👉 Automated Gate with PIR --> KEYPAD/ BIOMETRIC CAN BE ADDED FOR SECURITY 
+👉 FAN/ AC Based on Temperature/ Humidity --> DHT can be used
+👉 LIGHT Based on Environment Illumination
