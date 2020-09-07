@@ -2,23 +2,12 @@
 	<img src="http://content.arduino.cc/brand/arduino-color.svg" width="50%" />
 </p>
 
+</p>
+<p align="center">
 [![Language](https://img.shields.io/badge/language-c-red.svg)](https://en.cppreference.com/w/c/)
 [![Language](https://img.shields.io/badge/language-c++-red.svg)](https://en.cppreference.com/)
 [![Licence](https://img.shields.io/badge/Licence-Creative%20Commons%20Zero-blue)](https://github.com/Ankuraxz/NASSCOM-MHRD-IOT-Practical-Module_1-2/blob/master/LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Arduino-brightgreen)](https://www.arduino.cc)
-
-</p>
-<p align="center">
-    <a href="https://github.com/Ankuraxz/NASSCOM-MHRD-IOT-Practical-Module_1-2/contributors" alt="Contributors">
-        <img src="https://img.shields.io/github/contributors/badges/shields" /></a>
-    <a href="https://github.com/Ankuraxz/NASSCOM-MHRD-IOT-Practical-Module_1-2/pulse" alt="Activity">
-        <img src="https://img.shields.io/github/commit-activity/m/badges/shields" /></a>
-    <a href="https://github.com/Ankuraxz/NASSCOM-MHRD-IOT-Practical-Module_1-2/tree/master">
-        <img src="https://img.shields.io/circleci/project/github/badges/shields/master" alt="build status"></a>
-    <a href="https://github.com/Ankuraxz/NASSCOM-MHRD-IOT-Practical-Module_1-2/alerts/">
-        <img src="https://img.shields.io/lgtm/alerts/g/badges/shields"
-            alt="Total alerts"/></a>
-
 </p>
 
 # NASSCOM-MHRD-IOT-Practical-Module 1 and 2
