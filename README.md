@@ -2,30 +2,12 @@
 	<img src="http://content.arduino.cc/brand/arduino-color.svg" width="50%" />
 </p>
 
-</p>
 <p align="center">
 	
 [![Language](https://img.shields.io/badge/language-c-red.svg)](https://en.cppreference.com/w/c/)
 [![Language](https://img.shields.io/badge/language-c++-red.svg)](https://en.cppreference.com/)
 [![Licence](https://img.shields.io/badge/Licence-Creative%20Commons%20Zero-blue)](https://github.com/Ankuraxz/NASSCOM-MHRD-IOT-Practical-Module_1-2/blob/master/LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Arduino-brightgreen)](https://www.arduino.cc)
-</p>
-<p align="center">
-<a href="https://github.com/Ankuraxz/NASSCOM-MHRD-IOT-Practical-Module_1-2/blob/master/LICENSE" target="blank">
-<img src="https://img.shields.io/github/license/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator licence" />
-</a>
-<a href="https://github.com/Ankuraxz/NASSCOM-MHRD-IOT-Practical-Module_1-2/fork" target="blank">
-<img src="https://img.shields.io/github/forks/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>
-</a>
-<a href="https://github.com/Ankuraxz/NASSCOM-MHRD-IOT-Practical-Module_1-2/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>
-</a>
-<a href="https://github.com/Ankuraxz/NASSCOM-MHRD-IOT-Practical-Module_1-2/issues" target="blank">
-<img src="https://img.shields.io/github/issues/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
-</a>
-<a href="https://github.com/Ankuraxz/NASSCOM-MHRD-IOT-Practical-Module_1-2/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
-</a>
 </p>
 
 # NASSCOM-MHRD-IOT-Practical-Module 1 and 2
