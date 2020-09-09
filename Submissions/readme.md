@@ -1,5 +1,5 @@
 # SUBMISSION PORTAL
-So, If you are here, reading this I hope thta you want to submit some work. Read carefully and follow each step:
+So, If you are here, reading this I hope that you want to submit some work. Read carefully and follow each step:
 
 1. Press Star and Fork Icon, This would create a copy of this repository -->  <your Github Username>/NASSCOM-MHRD-IOT-Practical-Module_1-2
 2. Now open  <your Github Username>/NASSCOM-MHRD-IOT-Practical-Module_1-2/Submissions
