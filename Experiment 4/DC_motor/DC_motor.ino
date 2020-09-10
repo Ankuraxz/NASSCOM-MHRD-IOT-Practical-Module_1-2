@@ -8,6 +8,6 @@ void setup()
 
 void loop()
 {
-  digitalWrite(7, HIGH);
+  digitalWrite(7, HIGH); // Motor ON
   
 }
