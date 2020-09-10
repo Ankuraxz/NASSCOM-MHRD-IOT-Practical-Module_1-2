@@ -1,9 +1,11 @@
 name: Build examples
 on: 
   push:
+    paths: 
+      - '**.ino'
   pull_request:
-    branches:
-      - master
+    paths: 
+      - '**.ino'
 jobs:
   build:
     runs-on: ubuntu-latest
