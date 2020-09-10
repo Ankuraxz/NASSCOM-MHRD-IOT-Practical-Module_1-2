@@ -5,6 +5,9 @@ on:
       - "**.ino"
       - "**.cpp"
   pull_request:
+    paths: 
+      - "**.ino"
+      - "**.cpp"
 jobs:
   build:
     name: Test compiling examples for UNO
