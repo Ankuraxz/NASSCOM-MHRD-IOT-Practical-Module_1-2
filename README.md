@@ -26,7 +26,7 @@
 2. USE IR + REMOTE + LCD
 3. Use Ultrasonic (PING) type
 4. Interface Geared DC Motor
-5. Interface TMP36 + FAN DC Motor + Potentiometer
+5. Interface TMP36 + FAN DC Motor + Potentiometer; Use AnalogWrite with DC Motor
 6. Develop Your Own Small Project and Project ShowCase
 
 ## SMART HOME FEATURES
