@@ -1,9 +1,9 @@
 #include <IRremote.h>
  
-const int IR_Recv = 11;   
-const int blue_led = 10;
-const int green_led = 9;
-const int yellow_led = 8;
+const int IR_Recv = 5;   
+const int blue_led = 11;
+const int green_led = 10;
+const int yellow_led = 9;
  
 IRrecv irrecv(IR_Recv);
 decode_results results;
@@ -23,23 +23,101 @@ void loop(){
     Serial.println(results.value);
     //switch case to use the selected remote control button
     switch (results.value){
-      case 16582903: //when you press the 1 button
+      case 16582903://when you press the 1 button
+      { 
         digitalWrite(blue_led, HIGH);
+        delay(100);
+      	digitalWrite(blue_led, LOW);
+        delay(100);
+      }
         break;   
-      case 16615543: //when you press the 4 button
-        digitalWrite(blue_led, LOW);   
-        break;
-       case 16599223: //when you press the 2 button
+      case 16615543: //when you press the 2 button
+      {
         digitalWrite(green_led, HIGH);
-        break;           
-       case 16591063: //when you press the 5 button
-        digitalWrite(green_led, LOW);
-        break;       
-       case 16623703: //when you press the 3 button
+        delay(100);
+      	digitalWrite(green_led, LOW);
+        delay(100);
+      }   
+        break;
+       case 16599223: //when you press the 3 button
+	  {
         digitalWrite(yellow_led, HIGH);
+        delay(100);
+      	digitalWrite(yellow_led, LOW);
+        delay(100);
+      }         
+       break;           
+       case 16591063: //when you press the 4 button
+       {
+        digitalWrite(blue_led, HIGH);
+        delay(100);
+      	digitalWrite(blue_led, LOW);
+        delay(100);
+        digitalWrite(green_led, HIGH);
+        delay(100);
+      	digitalWrite(green_led, LOW);
+        delay(100);
+        digitalWrite(yellow_led, HIGH);
+        delay(100);
+      	digitalWrite(yellow_led, LOW);
+        delay(100) ; 
+      }
+        break;       
+       case 16623703: //when you press the 5 button
+      {
+        digitalWrite(blue_led, HIGH);
+        delay(500);
+        digitalWrite(green_led, HIGH);
+        delay(500);
+        digitalWrite(yellow_led, HIGH);
+        delay(500);
+      	digitalWrite(blue_led, LOW);
+        delay(500);
+        digitalWrite(green_led, LOW);
+        delay(500);
+        digitalWrite(yellow_led, LOW);
+        delay(500) ; 
+      }  
         break;       
        case 16607383: //when you press the 6 button
-        digitalWrite(yellow_led, LOW);
+      {
+        digitalWrite(blue_led, HIGH);
+        delay(100);
+      	digitalWrite(blue_led, LOW);
+        delay(100);
+        digitalWrite(blue_led, HIGH);
+        delay(100);
+      	digitalWrite(blue_led, LOW);
+        delay(100) ; 
+        digitalWrite(green_led, HIGH);
+        delay(100);
+      	digitalWrite(green_led, LOW);
+        delay(100);
+        digitalWrite(green_led, HIGH);
+        delay(100);
+      	digitalWrite(green_led, LOW);
+        delay(100);
+        digitalWrite(yellow_led, HIGH);
+        delay(100);
+      	digitalWrite(yellow_led, LOW);
+        delay(100) ;
+        digitalWrite(yellow_led, HIGH);
+        delay(100);
+      	digitalWrite(yellow_led, LOW);
+        delay(100);
+        digitalWrite(yellow_led, HIGH);
+        delay(100);
+      	digitalWrite(yellow_led, LOW);
+        delay(100);
+        digitalWrite(green_led, HIGH);
+        delay(100);
+      	digitalWrite(green_led, LOW);
+        delay(100) ;
+        digitalWrite(blue_led, HIGH);
+        delay(100);
+      	digitalWrite(blue_led, LOW);
+        delay(100) ; 
+      }  
         break;
     }
     irrecv.resume(); // Receives the next value from the button you press
