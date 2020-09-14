@@ -38,6 +38,7 @@ void loop()
     delay(5); // Wait for 15 millisecond(s)
     }
   }
+ /*
   else {
     //  Door open
     for (pos1 = pos; pos1 >= 0; pos1 -= 1) {
@@ -47,6 +48,7 @@ void loop()
     delay(5); // Wait for 15 millisecond(s)
     }
   }
+  */
   
   // LDR + BULB (Automated Lights)
   ldr = analogRead(A1);
