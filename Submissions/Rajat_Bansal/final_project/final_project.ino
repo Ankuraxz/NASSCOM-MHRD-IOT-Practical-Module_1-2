@@ -1,3 +1,7 @@
+/* By Rajat Bansal
+(B.Tech(ECE) 3rd sem
+github: rajatbansal01
+*/
 int red = 2;
 int pir = 3;
 int pir_state = 0;
